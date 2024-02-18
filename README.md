@@ -2,7 +2,7 @@
 
 ## Description
 
-An ecommerce store built with MERN stack, and utilizes third party API's. This ecommerce store enable three main different flows or implementations:
+An e-commerce store built with MERN stack, and utilizes third party API's. This e-commerce store enable three main different flows or implementations:
 
 1. Buyers browse the store categories, products and brands
 2. Sellers or Merchants manage their own brand component
@@ -23,7 +23,7 @@ To run this project locally you can use docker compose provided in the repositor
 
 Clone the repository
 ```
-$ git clone https://github.com/mohamedsamara/mern-ecommerce.git
+$ git clone https://github.com/Kishorbha/three-tire-mern-app.git
 ```
 
 Edit the dockercompose.yml file and update the the values for MONGO_URI and JWT_SECRET
@@ -55,7 +55,7 @@ See admin dashboard [demo](https://mernstore-bucket.s3.us-east-2.amazonaws.com/a
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/mohamedsamara/mern-ecommerce.git
+$ git clone https://github.com/Kishorbha/three-tire-mern-app.git
 $ cd project
 $ npm install
 ```

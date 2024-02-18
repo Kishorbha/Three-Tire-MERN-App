@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohamedsamara/mern-ecommerce.git"
+    "url": "git+https://github.com/Kishorbha/three-tire-mern-app.git"
   },
   "keywords": [
     "node",
@@ -22,12 +22,12 @@
     "redux-thunk",
     "webpack"
   ],
-  "author": "Mohamed Samara (https://github.com/mohamedsamara)",
+  "author": "Kishor Bhandari (https://github.com/kishorbha)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mohamedsamara/mern-ecommerce/issues"
+    "url": "https://github.com/kishorbha/three-tire-mern-app/issues"
   },
-  "homepage": "https://github.com/mohamedsamara/mern-ecommerce#readme",
+  "homepage": "https://github.com/kishorbha/three-tire-mern-app#readme",
   "devDependencies": {
     "cross-env": "^5.2.1",
     "npm-run-all": "^4.1.5"
